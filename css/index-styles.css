@@ -19,7 +19,7 @@ body {
 .navtext {
     position: absolute;
     font-size: 2.5vw;
-    transform: translate(-90%, -85%);
+    transform: translate(-110%, -85%);
     white-space: nowrap;
     overflow: hidden;
 }
@@ -27,20 +27,26 @@ body {
 .arrow {
     position: absolute;
     width: 25%;
-    transform: translate(-240%, 100%);
+    transform: translate(-300%, 90%);
 }
 
 .simpletext {
     position: absolute;
     font-size: 2.5vw;
-    transform: translate(125%, 140%);
+    transform: translate(125%, 120%);
+}
+
+.hey {
+    position: absolute;
+    font-size: 2.5vw;
+    transform: translate(-75%, -550%);
 }
 
 .peek {
     position: absolute;
     font-size: 2.5vw;
     white-space: nowrap;
-    transform: translate(-100%, 700%);
+    transform: translate(-50%, 750%);
 }
 
 .cover {
