@@ -36,6 +36,13 @@ body {
     transform: translate(125%, 140%);
 }
 
+.peek {
+    position: absolute;
+    font-size: 2.5vw;
+    white-space: nowrap;
+    transform: translate(-100%, 700%);
+}
+
 .cover {
     position: absolute;
     width: 25%;
